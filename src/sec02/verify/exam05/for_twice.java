@@ -14,7 +14,8 @@ public class for_twice {
 			
 			System.out.println();
 		}
-
+		
+		// for 문이 중첩이 되며, 안쪽 for문이 바깥쪽 for문의 조절변수에 의존하게 하게끔 하는 거는 좋은 기술이라고 생각.
 	}
 
 }
